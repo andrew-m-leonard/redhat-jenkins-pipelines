@@ -4,7 +4,7 @@
         "build_branch"       : "master",
         "test_dirs"          : "/test/functional",
         "pipeline_url"       : "https://github.com/andrew-m-leonard/redhat-jenkins-pipelines.git",
-        "pipeline_branch"    : "master",
+        "pipeline_branch"    : "main",
         "helper_ref"         : "master"
     },
     "jenkinsDetails"         : {
